@@ -52,18 +52,12 @@ Exploration of deep learning techniques (Neural Networks, Autoencoders).
 
 Clone this repository:
 
-git clone https://github.com/prashanth316/Fraud-Detection-For-Medical-Claims.git
+git clone  (https://github.com/EndravathKrishna/Fraud-Detection-For-Medical-Claims.git)
 
 
 Navigate to the folder:
 
 cd Fraud-Detection-For-Medical-Claims
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
 
 Open and run the Jupyter notebook:
 
@@ -77,4 +71,4 @@ Genuine claim prediction: 0 (Not Fraudulent)
 
 👤 Author
 
-Developed by Prashanth Reddy Kondapuram
+Developed by Endravath Krishna
